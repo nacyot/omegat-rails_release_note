@@ -1,0 +1,14 @@
+13. 12. 30 오후 3:08
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	
+Total:           	     632	 3292	                      25627	                        27791	
+Remaining:       	      67	  747	                       5458	                         6073	
+Unique:          	     497	 2897	                      22499	                        24424	
+Unique Remaining:	      66	  738	                       5385	                         5992	
+
+
+Individual File Statistics:
+
+File Name             	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+4_1_release_notes.html	           632	                67	            497	                       66	       3292	            747	        2897	                   738	                            25627	                                 5458	                             22499	                                        5385	                              27791	                                   6073	                               24424	                                          5992	

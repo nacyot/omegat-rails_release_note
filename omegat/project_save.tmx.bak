@@ -1,0 +1,3463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.4_2" segtype="sentence" srclang="JA"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="JA">
+        <seg># =&gt; false
+conversation.status  # =&gt; "archived"
+
+Conversation.archived # =&gt; Relation for all archived Conversations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084136Z" creationid="hsin" creationdate="20131220T084136Z">
+        <seg># =&gt; false
+conversation.status  # =&gt; "archived"
+
+Conversation.archived # =&gt; Relation for all archived Conversations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg># Accessible from http://localhost:3000/rails/mailers/notifier/welcome</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083919Z" creationid="hsin" creationdate="20131220T083919Z">
+        <seg># Accessible from http://localhost:3000/rails/mailers/notifier/welcome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#action-mailer</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135015Z" creationid="hsin" creationdate="20131219T135015Z">
+        <seg>#action-mailer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#action-mailer-notable-changes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135018Z" creationid="hsin" creationdate="20131219T135018Z">
+        <seg>#action-mailer-notable-changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#action-mailer-previews</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134925Z" creationid="hsin" creationdate="20131219T134925Z">
+        <seg>#action-mailer-previews</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#action-pack</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135013Z" creationid="hsin" creationdate="20131219T135013Z">
+        <seg>#action-pack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#action-pack-notable-changes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135015Z" creationid="hsin" creationdate="20131219T135015Z">
+        <seg>#action-pack-notable-changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#action-pack-removals</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135014Z" creationid="hsin" creationdate="20131219T135014Z">
+        <seg>#action-pack-removals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#action-pack-variants</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134924Z" creationid="hsin" creationdate="20131219T134924Z">
+        <seg>#action-pack-variants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#active-model</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135036Z" creationid="hsin" creationdate="20131219T135036Z">
+        <seg>#active-model</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#active-model-deprecations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135045Z" creationid="hsin" creationdate="20131219T135045Z">
+        <seg>#active-model-deprecations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#active-model-notable-changes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135045Z" creationid="hsin" creationdate="20131219T135045Z">
+        <seg>#active-model-notable-changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#active-record</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135024Z" creationid="hsin" creationdate="20131219T135024Z">
+        <seg>#active-record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#active-record-deprecations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135035Z" creationid="hsin" creationdate="20131219T135035Z">
+        <seg>#active-record-deprecations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#active-record-enums</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134929Z" creationid="hsin" creationdate="20131219T134929Z">
+        <seg>#active-record-enums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#active-record-notable-changes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135036Z" creationid="hsin" creationdate="20131219T135036Z">
+        <seg>#active-record-notable-changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#active-record-removals</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135025Z" creationid="hsin" creationdate="20131219T135025Z">
+        <seg>#active-record-removals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#active-support</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135046Z" creationid="hsin" creationdate="20131219T135046Z">
+        <seg>#active-support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#active-support-notable-changes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135049Z" creationid="hsin" creationdate="20131219T135049Z">
+        <seg>#active-support-notable-changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#active-support-removals</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135047Z" creationid="hsin" creationdate="20131219T135047Z">
+        <seg>#active-support-removals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#application-message-verifier</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134938Z" creationid="hsin" creationdate="20131219T134938Z">
+        <seg>#application-message-verifier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#config-secrets-yml</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134921Z" creationid="hsin" creationdate="20131219T134921Z">
+        <seg>#config-secrets-yml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#credits</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135053Z" creationid="hsin" creationdate="20131219T135053Z">
+        <seg>#credits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#csrf-protection-from-remote-script-tags</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134956Z" creationid="hsin" creationdate="20131219T134956Z">
+        <seg>#csrf-protection-from-remote-script-tags</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#deprecations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135048Z" creationid="hsin" creationdate="20131219T135048Z">
+        <seg>#deprecations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#major-features</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134900Z" creationid="hsin" creationdate="20131219T134900Z">
+        <seg>#major-features</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#module-concerning</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134952Z" creationid="hsin" creationdate="20131219T134952Z">
+        <seg>#module-concerning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#railties</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135008Z" creationid="hsin" creationdate="20131219T135008Z">
+        <seg>#railties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#railties-notable-changes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135012Z" creationid="hsin" creationdate="20131219T135012Z">
+        <seg>#railties-notable-changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#railties-removals</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135010Z" creationid="hsin" creationdate="20131219T135010Z">
+        <seg>#railties-removals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#spring-application-preloader</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134921Z" creationid="hsin" creationdate="20131219T134921Z">
+        <seg>#spring-application-preloader</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>#upgrading-to-rails-4-1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134851Z" creationid="hsin" creationdate="20131219T134851Z">
+        <seg>#upgrading-to-rails-4-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>$ bin/spring status
+Spring is running:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135850Z" creationid="hsin" creationdate="20131219T135850Z">
+        <seg>$ bin/spring status
+Spring is running:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a0&gt;Commit&lt;/a0&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125733Z" creationid="hsin" creationdate="20131220T125733Z">
+        <seg>(&lt;a0&gt;Commit&lt;/a0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a0&gt;Pull Request&lt;/a0&gt; / &lt;a1&gt;More Details&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010411Z" creationid="hsin" creationdate="20131225T010411Z">
+        <seg>(&lt;a0&gt;Pull Request&lt;/a0&gt; / &lt;a1&gt;More Details&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a0&gt;Pull Request&lt;/a0&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125209Z" creationid="hsin" creationdate="20131220T125209Z">
+        <seg>(&lt;a0&gt;Pull Request&lt;/a0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a1&gt;Commit&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T085124Z" creationid="hsin" creationdate="20131220T085124Z">
+        <seg>(&lt;a1&gt;Commit&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a1&gt;Pull Request&lt;/a1&gt; / &lt;a2&gt;More Details&lt;/a2&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010408Z" creationid="hsin" creationdate="20131225T010408Z">
+        <seg>(&lt;a1&gt;Pull Request&lt;/a1&gt; / &lt;a2&gt;More Details&lt;/a2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a1&gt;Pull Request&lt;/a1&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T085041Z" creationid="hsin" creationdate="20131220T085041Z">
+        <seg>(&lt;a1&gt;Pull Request&lt;/a1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a2&gt;Commit&lt;/a2&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125724Z" creationid="hsin" creationdate="20131220T125724Z">
+        <seg>(&lt;a2&gt;Commit&lt;/a2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a2&gt;Pull Request&lt;/a2&gt; / &lt;a3&gt;More Details&lt;/a3&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010404Z" creationid="hsin" creationdate="20131225T010404Z">
+        <seg>(&lt;a2&gt;Pull Request&lt;/a2&gt; / &lt;a3&gt;More Details&lt;/a3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a2&gt;Pull Request&lt;/a2&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125208Z" creationid="hsin" creationdate="20131220T125208Z">
+        <seg>(&lt;a2&gt;Pull Request&lt;/a2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a2&gt;Related Pull Request&lt;/a2&gt; / &lt;a3&gt;More Details&lt;/a3&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010327Z" creationid="hsin" creationdate="20131225T010327Z">
+        <seg>(&lt;a2&gt;Related Pull Request&lt;/a2&gt; / &lt;a3&gt;More Details&lt;/a3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a3&gt;Commit&lt;/a3&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010439Z" creationid="hsin" creationdate="20131225T010439Z">
+        <seg>(&lt;a3&gt;Commit&lt;/a3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a3&gt;Pull Request&lt;/a3&gt; / &lt;a4&gt;More Details&lt;/a4&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010322Z" creationid="hsin" creationdate="20131225T010322Z">
+        <seg>(&lt;a3&gt;Pull Request&lt;/a3&gt; / &lt;a4&gt;More Details&lt;/a4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a3&gt;Pull Request&lt;/a3&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010009Z" creationid="hsin" creationdate="20131225T010009Z">
+        <seg>(&lt;a3&gt;Pull Request&lt;/a3&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a4&gt;Pull Request&lt;/a4&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125202Z" creationid="hsin" creationdate="20131220T125202Z">
+        <seg>(&lt;a4&gt;Pull Request&lt;/a4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a7&gt;Pull Request&lt;/a7&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125718Z" creationid="hsin" creationdate="20131220T125718Z">
+        <seg>(&lt;a7&gt;Pull Request&lt;/a7&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>(&lt;a8&gt;Pull Request&lt;/a8&gt;)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010441Z" creationid="hsin" creationdate="20131225T010441Z">
+        <seg>(&lt;a8&gt;Pull Request&lt;/a8&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>...</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084300Z" creationid="hsin" creationdate="20131220T084300Z">
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>1 Upgrading to Rails 4.1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135103Z" creationid="hsin" creationdate="20131219T135103Z">
+        <seg>1 레일즈 4.1로 업그레이드하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>1182 spring server | my_app | started 29 mins ago</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135851Z" creationid="hsin" creationdate="20131219T135851Z">
+        <seg>1182 spring server | my_app | started 29 mins ago</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2 Major Features</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135353Z" creationid="hsin" creationdate="20131219T135353Z">
+        <seg>2 핵심 변경 사항</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2.1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135356Z" creationid="hsin" creationdate="20131219T135356Z">
+        <seg>2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2.2 &lt;c0&gt;config/secrets.yml&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140031Z" creationid="hsin" creationdate="20131219T140031Z">
+        <seg>2.2 &lt;c0&gt;config/secrets.yml&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2.3</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140354Z" creationid="hsin" creationdate="20131219T140354Z">
+        <seg>2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2.4</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083847Z" creationid="hsin" creationdate="20131220T083847Z">
+        <seg>2.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2.5</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084032Z" creationid="hsin" creationdate="20131220T084032Z">
+        <seg>2.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2.6</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084158Z" creationid="hsin" creationdate="20131220T084158Z">
+        <seg>2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2.7</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084235Z" creationid="hsin" creationdate="20131220T084235Z">
+        <seg>2.7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2.8</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084317Z" creationid="hsin" creationdate="20131220T084317Z">
+        <seg>2.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2_2_release_notes.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134526Z" creationid="hsin" creationdate="20131219T134526Z">
+        <seg>2_2_release_notes.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>2_3_release_notes.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134525Z" creationid="hsin" creationdate="20131219T134525Z">
+        <seg>2_3_release_notes.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>3 Railties</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084435Z" creationid="hsin" creationdate="20131220T084435Z">
+        <seg>3 Railties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>3.1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084451Z" creationid="hsin" creationdate="20131220T084451Z">
+        <seg>3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>3.2</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084738Z" creationid="hsin" creationdate="20131220T084738Z">
+        <seg>3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>3656 spring app    | my_app | started 23 secs ago | test mode</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135852Z" creationid="hsin" creationdate="20131219T135852Z">
+        <seg>3656 spring app    | my_app | started 23 secs ago | test mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>3746 spring app    | my_app | started 10 secs ago | development mode</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135852Z" creationid="hsin" creationdate="20131219T135852Z">
+        <seg>3746 spring app    | my_app | started 10 secs ago | development mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>3_0_release_notes.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134524Z" creationid="hsin" creationdate="20131219T134524Z">
+        <seg>3_0_release_notes.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>3_1_release_notes.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134523Z" creationid="hsin" creationdate="20131219T134523Z">
+        <seg>3_1_release_notes.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>3_2_release_notes.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134520Z" creationid="hsin" creationdate="20131219T134520Z">
+        <seg>3_2_release_notes.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>4 Action Pack</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T085208Z" creationid="hsin" creationdate="20131220T085208Z">
+        <seg>4 Action Pack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>4.1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125105Z" creationid="hsin" creationdate="20131220T125105Z">
+        <seg>4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>4.2</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125144Z" creationid="hsin" creationdate="20131220T125144Z">
+        <seg>4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>4_0_release_notes.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134519Z" creationid="hsin" creationdate="20131219T134519Z">
+        <seg>4_0_release_notes.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>5 Action Mailer</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125215Z" creationid="hsin" creationdate="20131220T125215Z">
+        <seg>5 Action Mailer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>5.1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125216Z" creationid="hsin" creationdate="20131220T125216Z">
+        <seg>5.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>6 Active Record</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125223Z" creationid="hsin" creationdate="20131220T125223Z">
+        <seg>6 Active Record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>6.1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125224Z" creationid="hsin" creationdate="20131220T125224Z">
+        <seg>6.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>6.2</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125237Z" creationid="hsin" creationdate="20131220T125237Z">
+        <seg>6.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>6.3</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125701Z" creationid="hsin" creationdate="20131220T125701Z">
+        <seg>6.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>7 Active Model</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010242Z" creationid="hsin" creationdate="20131225T010242Z">
+        <seg>7 Active Model</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>7.1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010244Z" creationid="hsin" creationdate="20131225T010244Z">
+        <seg>7.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>7.2</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010309Z" creationid="hsin" creationdate="20131225T010309Z">
+        <seg>7.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>8 Active Support</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010310Z" creationid="hsin" creationdate="20131225T010310Z">
+        <seg>8 Active Support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>8.1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010312Z" creationid="hsin" creationdate="20131225T010312Z">
+        <seg>8.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>8.2</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010333Z" creationid="hsin" creationdate="20131225T010333Z">
+        <seg>8.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>8.3</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010406Z" creationid="hsin" creationdate="20131225T010406Z">
+        <seg>8.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>&lt;c0&gt;#url_for&lt;/c0&gt; takes a hash with options inside an array.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T015047Z" creationid="hsin" creationdate="20131229T015047Z">
+        <seg>&lt;c0&gt;#url_for&lt;/c0&gt; @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>&lt;c0&gt;BACKTRACE&lt;/c0&gt; environment variable to show unfiltered backtraces for test failures.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T085120Z" creationid="hsin" creationdate="20131220T085120Z">
+        <seg>&lt;c0&gt;BACKTRACE&lt;/c0&gt; 환경 변수는 테스트 실패시에 확인할 수 있도록 필터링 되지 않은 백트레이스 결과를 보여줍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>&lt;c0&gt;Rails.application.secrets.some_api_key&lt;/c0&gt; will return &lt;c1&gt;SOMEKEY&lt;/c1&gt; in the development environment.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140349Z" creationid="hsin" creationdate="20131219T140349Z">
+        <seg>개발 환경(development environment)에서 &lt;c0&gt;Rails.application.secrets.some_api_key&lt;/c0&gt; 메소드를 호출하면 &lt;c1&gt;SOMEKEY&lt;/c1&gt;를 리턴합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>&lt;c0&gt;protect_from_forgery&lt;/c0&gt; also prevents cross-origin &lt;c1&gt;&lt;script&gt;&lt;/c1&gt; tags.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T135647Z" creationid="hsin" creationdate="20131224T135647Z">
+        <seg>&lt;c0&gt;protect_from_forgery&lt;/c0&gt; 또한 cross-origin &lt;c1&gt;&lt;script&gt;&lt;/c1&gt; 태그를 방지하는데 사용됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>&lt;c2&gt;type_cast&lt;/c2&gt; will return &lt;c3&gt;1&lt;/c3&gt; for &lt;c4&gt;true&lt;/c4&gt; and &lt;c5&gt;0&lt;/c5&gt; for &lt;c6&gt;false&lt;/c6&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T024400Z" creationid="hsin" creationdate="20131229T024400Z">
+        <seg>&lt;c2&gt;type_cast&lt;/c2&gt;는 &lt;c4&gt;true&lt;/c4&gt;를 나태내기 위해 &lt;c3&gt;1&lt;/c3&gt;, &lt;c6&gt;false&lt;/c6&gt;를 나타내기 위해 &lt;c5&gt;0&lt;/c5&gt;을 리턴합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>&lt;s0&gt;More at &lt;a1&gt;rubyonrails.org:&lt;/a1&gt; &lt;/s0&gt; &lt;s2&gt; More Ruby on Rails &lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134243Z" creationid="hsin" creationdate="20131219T134243Z">
+        <seg>&lt;s0&gt;More at &lt;a1&gt;rubyonrails.org:&lt;/a1&gt; &lt;/s0&gt; &lt;s2&gt; More Ruby on Rails &lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>A list of things to watch out for when upgrading is available in the &lt;a0&gt;Upgrading Ruby on Rails&lt;/a0&gt; guide.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135349Z" creationid="hsin" creationdate="20131219T135349Z">
+        <seg>업그레이드 시에 생길 수 있는 문제나 주의점에 대해서는 &lt;a0&gt;루비 온 레일즈 업그레이드&lt;/a0&gt; 가이드를 참조하시기 바랍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>A natural, low-ceremony way to separate responsibilities within a class:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T134950Z" creationid="hsin" creationdate="20131224T134950Z">
+        <seg>클래스의 책임을 나누기 위한 @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>API Documentation Guidelines</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134512Z" creationid="hsin" creationdate="20131219T134512Z">
+        <seg>API Documentation Guidelines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Action Controller Overview</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134453Z" creationid="hsin" creationdate="20131219T134453Z">
+        <seg>Action Controller Overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Action Mailer</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135020Z" creationid="hsin" creationdate="20131219T135020Z">
+        <seg>Action Mailer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Action Mailer Basics</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134457Z" creationid="hsin" creationdate="20131219T134457Z">
+        <seg>Action Mailer Basics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Action Mailer previews</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134643Z" creationid="hsin" creationdate="20131219T134643Z">
+        <seg>Action Mailer 미리보기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Action Pack</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T133512Z" creationid="hsin" creationdate="20131224T133512Z">
+        <seg>Action Pack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Action Pack variants</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T134236Z" creationid="hsin" creationdate="20131224T133442Z">
+        <seg>Action Pack variants(기기 다양성 지원)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Action View Form Helpers</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134451Z" creationid="hsin" creationdate="20131219T134451Z">
+        <seg>Action View Form Helpers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionController::AbstractRequest</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125135Z" creationid="hsin" creationdate="20131220T125135Z">
+        <seg>ActionController::AbstractRequest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionController::AbstractResponse</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125138Z" creationid="hsin" creationdate="20131220T125138Z">
+        <seg>ActionController::AbstractResponse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionController::Integration</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125142Z" creationid="hsin" creationdate="20131220T125142Z">
+        <seg>ActionController::Integration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionController::IntegrationTest</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125143Z" creationid="hsin" creationdate="20131220T125143Z">
+        <seg>ActionController::IntegrationTest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionController::Request</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125136Z" creationid="hsin" creationdate="20131220T125136Z">
+        <seg>ActionController::Request</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionController::Response</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125139Z" creationid="hsin" creationdate="20131220T125139Z">
+        <seg>ActionController::Response</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionController::Routing</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125141Z" creationid="hsin" creationdate="20131220T125141Z">
+        <seg>ActionController::Routing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionDispatch::Integration</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125142Z" creationid="hsin" creationdate="20131220T125142Z">
+        <seg>ActionDispatch::Integration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionDispatch::IntegrationTest</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125143Z" creationid="hsin" creationdate="20131220T125143Z">
+        <seg>ActionDispatch::IntegrationTest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionDispatch::Request</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125135Z" creationid="hsin" creationdate="20131220T125135Z">
+        <seg>ActionDispatch::Request</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionDispatch::Response</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125138Z" creationid="hsin" creationdate="20131220T125138Z">
+        <seg>ActionDispatch::Response</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ActionDispatch::Routing</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125142Z" creationid="hsin" creationdate="20131220T125142Z">
+        <seg>ActionDispatch::Routing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Active Model</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T133526Z" creationid="hsin" creationdate="20131224T133526Z">
+        <seg>Active Model</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Active Record</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T133518Z" creationid="hsin" creationdate="20131224T133518Z">
+        <seg>Active Record</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Active Record Associations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134445Z" creationid="hsin" creationdate="20131219T134445Z">
+        <seg>Active Record Associations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Active Record Basics</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134441Z" creationid="hsin" creationdate="20131219T134441Z">
+        <seg>Active Record Basics</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Active Record Callbacks</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134444Z" creationid="hsin" creationdate="20131219T134444Z">
+        <seg>Active Record Callbacks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Active Record Query Interface</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134445Z" creationid="hsin" creationdate="20131219T134445Z">
+        <seg>Active Record Query Interface</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Active Record Validations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134443Z" creationid="hsin" creationdate="20131219T134443Z">
+        <seg>Active Record Validations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Active Record enums</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134936Z" creationid="hsin" creationdate="20131219T134936Z">
+        <seg>Active Record enums</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Active Support</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T133533Z" creationid="hsin" creationdate="20131224T133533Z">
+        <seg>Active Support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Active Support Core Extensions</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134455Z" creationid="hsin" creationdate="20131219T134455Z">
+        <seg>Active Support Core Extensions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Add &lt;c0&gt;Application#message_verifier&lt;/c0&gt; method to return a message verifier.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T135144Z" creationid="hsin" creationdate="20131224T135144Z">
+        <seg>메시지 검증기(message verifier)를 리턴하는 &lt;c0&gt;Application#message_verifier&lt;/c0&gt; 메소드가 추가되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Added &lt;c0&gt;ActiveRecord::Base.to_param&lt;/c0&gt; for convenient "pretty" URLs derived from a model's attribute or method.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T024142Z" creationid="hsin" creationdate="20131229T024142Z">
+        <seg>모델의 속성과 메소드로부터 유추해서 "pretty" URLs를 사용할 수 있도록 &lt;c0&gt;ActiveRecord::Base.to_param&lt;/c0&gt;가 추가되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Added &lt;c0&gt;session#fetch&lt;/c0&gt; method fetch behaves similarly to &lt;a1&gt;Hash#fetch&lt;/a1&gt;, with the exception that the returned value is always saved into the session.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T015154Z" creationid="hsin" creationdate="20131229T015154Z">
+        <seg>&lt;a1&gt;Hash#fetch&lt;/a1&gt;와 비슷하게 작동하는 &lt;c0&gt;session#fetch&lt;/c0&gt; 메소드가 추가되었습니다. 다른 점은 리턴 값이 항상 세션에 저장된다는 점입니다. @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Application message verifier</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T134458Z" creationid="hsin" creationdate="20131219T134951Z">
+        <seg>어플리케이션 메시지 검증기(verifier)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Asset Pipeline</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134505Z" creationid="hsin" creationdate="20131219T134505Z">
+        <seg>Asset Pipeline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Blog</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134254Z" creationid="hsin" creationdate="20131219T134254Z">
+        <seg>Blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>By default, these preview files live in &lt;t0&gt;test/mailers/previews&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084005Z" creationid="hsin" creationdate="20131220T084005Z">
+        <seg>메일을 미리보기 경로의 기본값은 &lt;t0&gt;test/mailers/previews&lt;/t0&gt;입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>By default, this file contains the application's &lt;c2&gt;secret_key_base&lt;/c2&gt;, but it could also be used to store other secrets such as access keys for external APIs.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140210Z" creationid="hsin" creationdate="20131219T140210Z">
+        <seg>기본적으로 이 파일은 어플리케이션의 &lt;c2&gt;secret_key_base&lt;/c2&gt;를 포함하고 있습니다. 이 파일에는 추가적으로 다른 외부 API 키들도 포함할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>CSRF protection from remote &lt;c0&gt;&lt;script&gt;&lt;/c0&gt; tags</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084420Z" creationid="hsin" creationdate="20131220T084341Z">
+        <seg>외부 &lt;c0&gt;&lt;script&gt;&lt;/c0&gt; 태그를 통한 CSRF 보호 @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Chapters</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134831Z" creationid="hsin" creationdate="20131219T134831Z">
+        <seg>Chapters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Code</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134247Z" creationid="hsin" creationdate="20131219T134247Z">
+        <seg>Code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Community</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134253Z" creationid="hsin" creationdate="20131219T134253Z">
+        <seg>Community</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Configuring Rails Applications</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134500Z" creationid="hsin" creationdate="20131219T134500Z">
+        <seg>Configuring Rails Applications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Contribute</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134528Z" creationid="hsin" creationdate="20131219T134528Z">
+        <seg>Contribute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Contributing to Ruby on Rails</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134509Z" creationid="hsin" creationdate="20131219T134509Z">
+        <seg>Contributing to Ruby on Rails</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Controllers</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134452Z" creationid="hsin" creationdate="20131219T134452Z">
+        <seg>Controllers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Create a message verifier that can be used to generate and verify signed messages in the application.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T134543Z" creationid="hsin" creationdate="20131224T134543Z">
+        <seg>서명된 메시지를 생성하거나 검증할 수 있는 메시지 검증자를 사용할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Creating and Customizing Rails Generators</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134508Z" creationid="hsin" creationdate="20131219T134508Z">
+        <seg>Creating and Customizing Rails Generators</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Credits</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134531Z" creationid="hsin" creationdate="20131219T134531Z">
+        <seg>Credits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Cross-site request forgery (CSRF) protection now covers GET requests with JavaScript responses, too.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T011028Z" creationid="hsin" creationdate="20131220T084416Z">
+        <seg>사이트간 요청 위조(Cross-site request forgery, CSRF) 보호는 @@@ 이제 Get 요청에 대한 Javascript 응답을 포함합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Debugging Rails Applications</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134459Z" creationid="hsin" creationdate="20131219T134459Z">
+        <seg>Debugging Rails Applications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Declare an enum attribute where the values map to integers in the database, but can be queried by name.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084133Z" creationid="hsin" creationdate="20131220T084133Z">
+        <seg>실제 값은 정수형이지만 이름을 사용해 값을 구분할 수 있는 열거형 속성(enum attribute)을 선언할 수 있습니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Deploy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134246Z" creationid="hsin" creationdate="20131219T134246Z">
+        <seg>Deploy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Deprecate &lt;c0&gt;Validator#setup&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010301Z" creationid="hsin" creationdate="20131225T010301Z">
+        <seg>&lt;c0&gt;Validator#setup&lt;/c0&gt; 메소드가 비추천되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Deprecated &lt;c0&gt;ActiveSupport::JSON::Encoding::CircularReferenceError&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010401Z" creationid="hsin" creationdate="20131225T010401Z">
+        <seg>&lt;c0&gt;ActiveSupport::JSON::Encoding::CircularReferenceError&lt;/c0&gt;이 비추천되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Deprecated &lt;c0&gt;ConnectionAdapters::SchemaStatements#distinct&lt;/c0&gt;, as it is no longer used by internals.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125700Z" creationid="hsin" creationdate="20131220T125700Z">
+        <seg>내부적으로 더 이상 사용되지 않는 &lt;c0&gt;ConnectionAdapters::SchemaStatements#distinct&lt;/c0&gt; 메소드도 삭제 예정입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Deprecated &lt;c0&gt;quoted_locking_column&lt;/c0&gt; method, which isn't used anywhere.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125614Z" creationid="hsin" creationdate="20131220T125614Z">
+        <seg>&lt;c0&gt;quoted_locking_column&lt;/c0&gt; 메소드는 더 이상 어디에서도 사용되지 않으므로 삭제 예정입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Deprecated the delegation of Array bang methods for associations.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T024053Z" creationid="hsin" creationdate="20131229T024004Z">
+        <seg>associations를 Array bang 메소드에 대한 위임은 비추천되었습니다. @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Deprecations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125324Z" creationid="hsin" creationdate="20131220T125324Z">
+        <seg>삭제 예정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Digging Deeper</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134454Z" creationid="hsin" creationdate="20131219T134454Z">
+        <seg>Digging Deeper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134251Z" creationid="hsin" creationdate="20131219T134251Z">
+        <seg>Documentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134246Z" creationid="hsin" creationdate="20131219T134246Z">
+        <seg>Download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Ecosystem</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134252Z" creationid="hsin" creationdate="20131219T134252Z">
+        <seg>Ecosystem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Exposed &lt;c0&gt;MiddlewareStack#unshift&lt;/c0&gt; to environment configuration.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T085153Z" creationid="hsin" creationdate="20131220T085153Z">
+        <seg>&lt;c0&gt;MiddlewareStack#unshift&lt;/c0&gt;를 환경(environment) 설정에서 사용할 수 있습니다. @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Extending Rails</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134506Z" creationid="hsin" creationdate="20131219T134506Z">
+        <seg>Extending Rails</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>For example, with the following &lt;c1&gt;secrets.yml&lt;/c1&gt;:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140247Z" creationid="hsin" creationdate="20131219T140247Z">
+        <seg>예를 들어 아래와 같이 &lt;c1&gt;secret.yml&lt;/c1&gt; 을 작성한 경우:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Getting Started with Rails</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134302Z" creationid="hsin" creationdate="20131219T134302Z">
+        <seg>Getting Started with Rails</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Guides Index</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134256Z" creationid="hsin" creationdate="20131219T134256Z">
+        <seg>Guides Index</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Guides.rubyonrails.org</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134255Z" creationid="hsin" creationdate="20131219T134255Z">
+        <seg>Guides.rubyonrails.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Have a look at the &lt;a0&gt;Spring README&lt;/a0&gt; to see all available features.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135917Z" creationid="hsin" creationdate="20131219T135917Z">
+        <seg>Spring의 모든 기능은 &lt;a0&gt;Spring README&lt;/a0&gt;을 참조하시기 바랍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Helper methods used by multiple fixtures should be defined on modules included in &lt;c0&gt;ActiveRecord::FixtureSet.context_class&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T024754Z" creationid="hsin" creationdate="20131229T024754Z">
+        <seg>여러 fixtures에서 사용되는 헬퍼 메소드는 &lt;c0&gt;ActiveRecord::FixtureSet.context_class&lt;/c0&gt;을 포함하는 모듈에 정의되어야합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Highlights in Rails 4.1:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134731Z" creationid="hsin" creationdate="20131219T134618Z">
+        <seg>4.1의 핵심 변경 사항:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134256Z" creationid="hsin" creationdate="20131219T134256Z">
+        <seg>Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>If you do not set the &lt;c0&gt;:inverse_of&lt;/c0&gt; option on the association, then Active Record will guess the inverse association based on heuristics.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T024608Z" creationid="hsin" creationdate="20131229T024534Z">
+        <seg>만약 &lt;c0&gt;:inverse_of&lt;/c0&gt; 옵션을 관계(association)에 추가하지 않으면 Active Record는 휴리스틱에 의해 자동으로 역관계를 유추합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>If you're upgrading an existing application, it's a great idea to have good test coverage before going in.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135234Z" creationid="hsin" creationdate="20131219T135234Z">
+        <seg>이미 프로그래밍하고 있는 어플리케이션을 업그레이드하고자 한다면, 업그레이드 전에 테스트 커버리지를 올려두는 것이 좋습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Improved compatibility with the JSON gem.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010431Z" creationid="hsin" creationdate="20131225T010431Z">
+        <seg>JSON gem과의 호환성이 향상되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Instead of &lt;c2&gt;post :create, format: :js&lt;/c2&gt;, switch to the explicit &lt;c3&gt;xhr :post, :create, format: :js&lt;/c3&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T011651Z" creationid="hsin" creationdate="20131229T011651Z">
+        <seg>&lt;c2&gt;post :create, format: :js&lt;/c2&gt;를 사용하는 대신에 명시적으로&lt;c3&gt;xhr :post, :create, format: :js&lt;/c3&gt;라고 기술해주세요 @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Instrument the generation of Action Mailer messages.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T015510Z" creationid="hsin" creationdate="20131229T015510Z">
+        <seg>Action Mailer 메시지를 생성하는 기능이 구현되었습니다. @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>It speeds up development by keeping your application running in the background so you don't need to boot it every time you run a test, rake task or migration.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135645Z" creationid="hsin" creationdate="20131219T135457Z">
+        <seg>이를 사용하면 개발 환경(development environment)에서 레일즈 어플리케이션을 백그라운드 상에 미리 실행시켜놓을 수 있어 빠른 개발을 가능하게 해줍니다. 이미 백그라운드에 레일즈 어플리케이션이 실행중이기 때문에 테스트나 rake 테스트를 할 때마다 레일즈를 새로 실행시키지 않아도 되기 때문입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>It uses the development group of the Gemfile, so will not be installed in production.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T085040Z" creationid="hsin" creationdate="20131220T085040Z">
+        <seg>Spring은 Gemfile의 개발 환경(development environment) 부분에 추가되며, 배포 환경(production environment)에는 설치되지 않습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Layouts and Rendering in Rails</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134448Z" creationid="hsin" creationdate="20131219T134448Z">
+        <seg>Layouts and Rendering in Rails</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Maintenance Policy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134513Z" creationid="hsin" creationdate="20131219T134513Z">
+        <seg>Maintenance Policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Major Features</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134919Z" creationid="hsin" creationdate="20131219T134910Z">
+        <seg>핵심 변경 사항</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Make sure to access it via the class.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005721Z" creationid="hsin" creationdate="20131225T005721Z">
+        <seg>클래스를 통해서 접근해야합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Models</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134304Z" creationid="hsin" creationdate="20131219T134304Z">
+        <seg>Models</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Module#concerning</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134955Z" creationid="hsin" creationdate="20131219T134955Z">
+        <seg>Module#concerning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Moved deprecated &lt;c0&gt;ActiveRecord::TestCase&lt;/c0&gt; into the Rails test suite.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005343Z" creationid="hsin" creationdate="20131225T005343Z">
+        <seg>비추천된 &lt;c0&gt;ActiveRecord::TestCase&lt;/c0&gt;가 레일즈 테스트 슈트로 이동되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>New Rails 4.1 applications will ship with "springified" binstubs.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135721Z" creationid="hsin" creationdate="20131219T135721Z">
+        <seg>새로운 레일즈 4.1 어플리케이션들은 스프링화된(springfied) binstubs를 가집니다. @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Notable changes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084837Z" creationid="hsin" creationdate="20131220T084828Z">
+        <seg>주요한 변화</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Notifier.welcome(User.first)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083920Z" creationid="hsin" creationdate="20131220T083920Z">
+        <seg>Notifier.welcome(User.first)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Overview</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134244Z" creationid="hsin" creationdate="20131219T134244Z">
+        <seg>Overview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Please refer to the &lt;a0&gt;Changelog&lt;/a0&gt; for detailed changes.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084448Z" creationid="hsin" creationdate="20131220T084448Z">
+        <seg>자세한 변경사항은 &lt;a0&gt;Changelog&lt;/a0&gt;를 참조해주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Please use &lt;c1&gt;readonly&lt;/c1&gt; method explicitly to mark records as &lt;c2&gt;readonly&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T015944Z" creationid="hsin" creationdate="20131229T015944Z">
+        <seg>레코드를 &lt;c2&gt;readonly&lt;/c2&gt;로 마크하기 위해서 명시적으로 &lt;c1&gt;readonly&lt;/c1&gt; 메소드를 사용해주세요.@@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Preview email templates in the browser without delivering them.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083918Z" creationid="hsin" creationdate="20131220T083918Z">
+        <seg>이메일을 실제로 보내지 않고도 브라우저를 통한 미리보기를 지원합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Provide separate templates for each format and variant:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T134012Z" creationid="hsin" creationdate="20131224T134012Z">
+        <seg>각각의 포맷과 variant에 대해서 서로 다른 템플릿을 적용할 수 있습니다:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Rails 4.1 will generate a new &lt;c0&gt;secrets.yml&lt;/c0&gt; file in the &lt;c1&gt;config&lt;/c1&gt; folder for new applications.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140125Z" creationid="hsin" creationdate="20131219T140125Z">
+        <seg>레일즈 4.1을 통해 새로운 어플리케이션을 생성하면 &lt;c1&gt;config&lt;/c1&gt; 디렉토리에 &lt;c0&gt;secret.yml&lt;/c0&gt; 파일을 생성합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Rails Command Line Tools and Rake Tasks</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134504Z" creationid="hsin" creationdate="20131219T134501Z">
+        <seg>Rails Command Line Tools and Rake Tasks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Rails Database Migrations</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134442Z" creationid="hsin" creationdate="20131219T134442Z">
+        <seg>Rails Database Migrations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Rails Internationalization API</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134456Z" creationid="hsin" creationdate="20131219T134456Z">
+        <seg>Rails Internationalization API</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Rails Routing from the Outside In</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134454Z" creationid="hsin" creationdate="20131219T134454Z">
+        <seg>Rails Routing from the Outside In</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Rails now automatically detects inverse associations.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T024542Z" creationid="hsin" creationdate="20131229T024515Z">
+        <seg>레일즈에 역 관계(associations)를 자동으로 유추하는 기능이 추가되었습니다.@@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Rails on Rack</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134507Z" creationid="hsin" creationdate="20131219T134507Z">
+        <seg>Rails on Rack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Railties</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T133508Z" creationid="hsin" creationdate="20131224T133508Z">
+        <seg>Railties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Release Notes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134519Z" creationid="hsin" creationdate="20131219T134519Z">
+        <seg>Release Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removals</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084504Z" creationid="hsin" creationdate="20131220T084504Z">
+        <seg>삭제</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Remove implicit join references that were deprecated in 4.0.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005942Z" creationid="hsin" creationdate="20131225T005942Z">
+        <seg>4.0부터 비추천된 implicit join references@@@가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125127Z" creationid="hsin" creationdate="20131220T125127Z">
+        <seg>삭제</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed &lt;c0&gt;activerecord-deprecated_finders&lt;/c0&gt; as a dependency.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T015846Z" creationid="hsin" creationdate="20131229T015842Z">
+        <seg>&lt;c0&gt;activerecord-deprecated_finders&lt;/c0&gt;가 의존성에서 삭제되었습니다. @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed &lt;c0&gt;update:application_controller&lt;/c0&gt; rake task.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084520Z" creationid="hsin" creationdate="20131220T084520Z">
+        <seg>&lt;c0&gt;update:application_controller&lt;/c0&gt; rake task은 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;:distinct&lt;/c0&gt; option from &lt;c1&gt;Relation#count&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005818Z" creationid="hsin" creationdate="20131225T005818Z">
+        <seg>&lt;c1&gt;Relation#count&lt;/c1&gt;의 비추천된 옵션인 &lt;c0&gt;:distinct&lt;/c0&gt;가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;ActionController::RecordIdentifier&lt;/c0&gt;, use &lt;c1&gt;ActionView::RecordIdentifier&lt;/c1&gt; instead.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T135528Z" creationid="hsin" creationdate="20131224T135528Z">
+        <seg>&lt;c0&gt;ActionController::RecordIdentifier&lt;/c0&gt;이 삭제되었습니다. &lt;c1&gt;ActionView::RecordIdentifier&lt;/c1&gt;를 대신 사용해주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;ActiveRecord::Base#connection&lt;/c0&gt; method.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005658Z" creationid="hsin" creationdate="20131225T005658Z">
+        <seg>비추천된 &lt;c0&gt;ActiveRecord::Base#connection&lt;/c0&gt; 메소드가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;ActiveRecord::Fixtures.find_table_name&lt;/c0&gt; in favor of &lt;c1&gt;ActiveRecord::Fixtures.default_fixture_model_name&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005210Z" creationid="hsin" creationdate="20131225T005210Z">
+        <seg>비추천된 &lt;c0&gt;ActiveRecord::Fixtures.find_table_name&lt;/c0&gt; 메소드가 삭제되었으며, &lt;c1&gt;ActiveRecord::Fixtures.default_fixture_model_nam&lt;/c1&gt; 메소드를 대신 사용하시기 바랍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;ActiveRecord::Generators::ActiveModel#update_attributes&lt;/c0&gt; in favor of &lt;c1&gt;ActiveRecord::Generators::ActiveModel#update&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084635Z" creationid="hsin" creationdate="20131220T084635Z">
+        <seg>&lt;c0&gt;ActiveRecord::Generators::ActiveModel#update_attributes&lt;/c0&gt; 메소드는 삭제되었습니다. &lt;c1&gt;ActiveRecord::Generators::ActiveModel#update&lt;/c1&gt; 메소드를 사용해주세요. @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;PostgreSQLAdapter#outside_transaction?&lt;/c0&gt; methodd.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005114Z" creationid="hsin" creationdate="20131225T005114Z">
+        <seg>비추천된 &lt;c0&gt;PostgreSQLAdapter#outside_transaction?&lt;/c0&gt; 메소드가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;Rails.application.railties.engines&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084537Z" creationid="hsin" creationdate="20131220T084537Z">
+        <seg>&lt;c0&gt;Rails.application.railties.engines&lt;/c0&gt;는 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;SchemaStatements#distinct&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005303Z" creationid="hsin" creationdate="20131225T005303Z">
+        <seg>비추천된 &lt;c0&gt;SchemaStatements#distinct&lt;/c0&gt;가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;columns_for_remove&lt;/c0&gt; from &lt;c1&gt;SchemaStatements&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005246Z" creationid="hsin" creationdate="20131225T005246Z">
+        <seg>&lt;c1&gt;SchemaStatements&lt;/c1&gt;에서 비추천된 &lt;c0&gt;columns_for_remove&lt;/c0&gt;가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;config.whiny_nils&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084645Z" creationid="hsin" creationdate="20131220T084645Z">
+        <seg>&lt;c0&gt;config.whiny_nils&lt;/c0&gt; 옵션은 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;decrement_open_transactions&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005037Z" creationid="hsin" creationdate="20131225T005037Z">
+        <seg>비추천된 decrement_open_transactions&lt;c0&gt;가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;increment_open_transactions&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005050Z" creationid="hsin" creationdate="20131225T005050Z">
+        <seg>비추천된 &lt;c0&gt;increment_open_transactions&lt;/c0&gt;가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;page_cache_extension&lt;/c0&gt; config.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T135327Z" creationid="hsin" creationdate="20131224T135327Z">
+        <seg>&lt;c0&gt;page_cache_extension&lt;/c0&gt; 설정이 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;scope&lt;/c0&gt; use without passing a callable object.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T004823Z" creationid="hsin" creationdate="20131225T004815Z">
+        <seg>호출할 수 있는 객체(callable object)를 넘겨받지 않은 비추천된 &lt;c0&gt;scope&lt;/c0&gt;가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;threadsafe!&lt;/c0&gt; from Rails Config.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084601Z" creationid="hsin" creationdate="20131220T084601Z">
+        <seg>레일즈 설정(Rails Config)의 &lt;c0&gt;threadsafe!&lt;/c0&gt;는 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated &lt;c0&gt;transaction_joinable=&lt;/c0&gt; in favor of &lt;c1&gt;begin_transaction&lt;/c1&gt; with &lt;c2&gt;d:joinable&lt;/c2&gt; option.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005116Z" creationid="hsin" creationdate="20131225T005024Z">
+        <seg>비추천된 &lt;c0&gt;transaction_joinable=&lt;/c0&gt;이 삭제습니다.  &lt;c1&gt;begin_transaction&lt;/c1&gt;에 &lt;c2&gt;:joinable&lt;/c2&gt; 옵션을 지정해 사용하시기 바랍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated Rails application fallback for integration testing, set &lt;c0&gt;ActionDispatch.test_app&lt;/c0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T015025Z" creationid="hsin" creationdate="20131229T015025Z">
+        <seg>비추천된 통합 테스틀 위한 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated String constructor from &lt;c0&gt;ActiveRecord::Migrator&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T004733Z" creationid="hsin" creationdate="20131225T004733Z">
+        <seg>&lt;c0&gt;ActiveRecord::Migrator&lt;/c0&gt;에서 비추천된 문자열 생성자(String constructor)가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated block filter from &lt;c0&gt;ActiveRecord::Migrator#migrate&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T004705Z" creationid="hsin" creationdate="20131224T135937Z">
+        <seg>&lt;c0&gt;ActiveRecord::Migrator#migrate&lt;/c0&gt;에서 비추천된 블록 필터가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated constants from Action Controller:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T135550Z" creationid="hsin" creationdate="20131224T135550Z">
+        <seg>더 이상 사용되지 않는 Action Controller의 상수들이 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated method &lt;c0&gt;default_scopes?&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005914Z" creationid="hsin" creationdate="20131225T005914Z">
+        <seg>비추천된 &lt;c0&gt;default_scopes?&lt;/c0&gt; 메소드가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated method &lt;c0&gt;scoped&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005856Z" creationid="hsin" creationdate="20131225T005856Z">
+        <seg>비추천된 &lt;c0&gt;scoped&lt;/c0&gt; 메소드가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated method &lt;c0&gt;type_cast_code&lt;/c0&gt; from Column.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005641Z" creationid="hsin" creationdate="20131225T005641Z">
+        <seg>Column에서 비추천된 메소드인 &lt;c0&gt;type_cast_code&lt;/c0&gt; 메소드가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated methods &lt;c0&gt;partial_updates&lt;/c0&gt;, &lt;c1&gt;partial_updates?&lt;/c1&gt; and &lt;c2&gt;partial_updates=&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005900Z" creationid="hsin" creationdate="20131225T005838Z">
+        <seg>비추천된 &lt;c0&gt;partial_updates&lt;/c0&gt;, &lt;c1&gt;partial_updates?&lt;/c1&gt;, &lt;c2&gt;partial_updates=&lt;/c2&gt; 메소드들이 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated nil-passing to the following &lt;c0&gt;SchemaCache&lt;/c0&gt; methods: &lt;c1&gt;primary_keys&lt;/c1&gt;, &lt;c2&gt;tables&lt;/c2&gt;, &lt;c3&gt;columns&lt;/c3&gt; and &lt;c4&gt;columns_hash&lt;/c4&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T015612Z" creationid="hsin" creationdate="20131229T015550Z">
+        <seg>비추천된 nil을 넘겨주는 아래의 &lt;c0&gt;SchemaCache&lt;/c0&gt; 메소드들이 삭제되었습니다:&lt;c1&gt;primary_keys&lt;/c1&gt;, &lt;c2&gt;tables&lt;/c2&gt;, &lt;c3&gt;columns&lt;/c3&gt; and &lt;c4&gt;columns_hash&lt;/c4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecated rake tasks for running tests: &lt;c0&gt;rake test:uncommitted&lt;/c0&gt; and &lt;c1&gt;rake test:recent&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084737Z" creationid="hsin" creationdate="20131220T084733Z">
+        <seg>테스트를 실행시키기 위한 몇 가지 rake task는 삭제되었습니다: &lt;c0&gt;rake test:uncommitted&lt;/c0&gt;, &lt;c1&gt;rake test:recent&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed deprecation warning for &lt;c0&gt;auto_explain_threshold_in_seconds&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005741Z" creationid="hsin" creationdate="20131225T005741Z">
+        <seg>&lt;c0&gt;auto_explain_threshold_in_seconds&lt;/c0&gt;에 대한 비추천 경고가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed support for deprecated &lt;c0&gt;:delete_sql&lt;/c0&gt;, &lt;c1&gt;:insert_sql&lt;/c1&gt;, &lt;c2&gt;:finder_sql&lt;/c2&gt; and &lt;c3&gt;:counter_sql&lt;/c3&gt; options in associations.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005626Z" creationid="hsin" creationdate="20131225T005626Z">
+        <seg>관계에서 비추천된 &lt;c0&gt;:delete_sql&lt;/c0&gt;, &lt;c1&gt;:insert_sql&lt;/c1&gt;, &lt;c2&gt;:finder_sql&lt;/c2&gt;, &lt;c3&gt;:counter_sql&lt;/c3&gt; 옵션들이 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed support for deprecated option &lt;c0&gt;:restrict&lt;/c0&gt; for &lt;c1&gt;:dependent&lt;/c1&gt; in associations.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005517Z" creationid="hsin" creationdate="20131225T005517Z">
+        <seg>관계(associations)에서 &lt;c1&gt;:dependent&lt;/c1&gt;에 비추천된 옵션인 &lt;c0&gt;:restrict&lt;/c0&gt;가 삭제되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Removed usage of &lt;c0&gt;implicit_readonly&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T015915Z" creationid="hsin" creationdate="20131229T015915Z">
+        <seg>&lt;c0&gt;implicit_readonly&lt;/c0&gt; 사용법이 삭제되었습니다. @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Respond to variants in the action just like you respond to formats:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T133941Z" creationid="hsin" creationdate="20131224T133846Z">
+        <seg>액션에서 각각의 variant에 대한 respond는 format처럼 사용할 수 있습니다:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Return to home page</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134255Z" creationid="hsin" creationdate="20131219T134255Z">
+        <seg>Return to home page</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Ruby on Rails 2.2 Release Notes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134527Z" creationid="hsin" creationdate="20131219T134527Z">
+        <seg>Ruby on Rails 2.2 Release Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Ruby on Rails 2.3 Release Notes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134526Z" creationid="hsin" creationdate="20131219T134526Z">
+        <seg>Ruby on Rails 2.3 Release Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Ruby on Rails 3.0 Release Notes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134525Z" creationid="hsin" creationdate="20131219T134525Z">
+        <seg>Ruby on Rails 3.0 Release Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Ruby on Rails 3.1 Release Notes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134523Z" creationid="hsin" creationdate="20131219T134523Z">
+        <seg>Ruby on Rails 3.1 Release Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Ruby on Rails 3.2 Release Notes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134522Z" creationid="hsin" creationdate="20131219T134522Z">
+        <seg>Ruby on Rails 3.2 Release Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Ruby on Rails 4.0 Release Notes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134520Z" creationid="hsin" creationdate="20131219T134520Z">
+        <seg>Ruby on Rails 4.0 Release Notes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Ruby on Rails 4.1 Release Notes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134557Z" creationid="hsin" creationdate="20131219T134557Z">
+        <seg>루비 온 레일즈 4.1 릴리즈 노트</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Ruby on Rails 4.1 Release Notes — Ruby on Rails Guides</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134216Z" creationid="hsin" creationdate="20131219T134216Z">
+        <seg>Ruby on Rails 4.1 Release Notes — Ruby on Rails Guides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Ruby on Rails Guides Guidelines</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134513Z" creationid="hsin" creationdate="20131219T134513Z">
+        <seg>Ruby on Rails Guides Guidelines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Screencasts</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134250Z" creationid="hsin" creationdate="20131219T134250Z">
+        <seg>Screencasts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Securing Rails Applications</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134458Z" creationid="hsin" creationdate="20131219T134458Z">
+        <seg>Securing Rails Applications</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>See its &lt;a0&gt;documentation&lt;/a0&gt; for a detailed write up and the intended use cases.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T135044Z" creationid="hsin" creationdate="20131224T135044Z">
+        <seg>자세한 내용은 &lt;a0&gt;문서&lt;/a0&gt;를 참조해주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>See its &lt;a0&gt;documentation&lt;/a0&gt; for a detailed write up.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084153Z" creationid="hsin" creationdate="20131220T084153Z">
+        <seg>자세한 사항은 &lt;a0&gt;문서&lt;/a0&gt;를 참조해주세요.@@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>See the &lt;a0&gt;Upgrading Ruby on Rails&lt;/a0&gt; guide on how to migrate existing applications to use this feature.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140028Z" creationid="hsin" creationdate="20131219T140028Z">
+        <seg>이미 만들어진 레일즈 어플리케이션에서 이 기능을 사용하고자 한다면 &lt;a0&gt;루비 온 레일즈 업그레이드 가이드&lt;/a0&gt;를 참조하시기 바랍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Separated Action View completely from Action Pack.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T135836Z" creationid="hsin" creationdate="20131224T135836Z">
+        <seg>Action View는 Aciton Pack에서 완전히 분리되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Spring application preloader</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134626Z" creationid="hsin" creationdate="20131219T134626Z">
+        <seg>Spring 어플리케이션 프리로더 도입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Spring is a Rails application preloader.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135408Z" creationid="hsin" creationdate="20131219T135408Z">
+        <seg>Spring은 레일즈 어플레케이션 프리로더입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Start Here</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134301Z" creationid="hsin" creationdate="20131219T134301Z">
+        <seg>Start Here</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Successor</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125134Z" creationid="hsin" creationdate="20131220T125134Z">
+        <seg>대체</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>That prevents a third-party site from referencing your JavaScript URL and attempting to run it to extract sensitive data.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T011428Z" creationid="hsin" creationdate="20131229T011428Z">
+        <seg>이를 통해서 서드 파티 사이트가 사이트 내의 Javascript URL을 가리키거나 민감한 데이터를 추출하려는 시도를 방지할 수 있습니다. @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>The &lt;a0&gt;Spring application preloader&lt;/a0&gt; is now installed by default for new applications.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084941Z" creationid="hsin" creationdate="20131220T084941Z">
+        <seg>이제 새로운 레일즈 어플리케이션을 생성할 때 &lt;a0&gt;Spring 어플리케이션 프리로더&lt;/a0&gt;가 기본적으로 함께 설치됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>The ERB in fixture files is no longer evaluated in the context of the main object.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T024643Z" creationid="hsin" creationdate="20131229T024643Z">
+        <seg>fixture 파일들의 ERB는 더 이상 main object 맥락에서 평가되지 않습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>The class is no longer public and is only used for internal Rails tests.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005415Z" creationid="hsin" creationdate="20131225T005415Z">
+        <seg>이 클래스는 더 이상 외부에 노출되지 않으며 내부적인 레일즈 테스트들에서만 사용됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>The request variant is a specialization of the request format, like &lt;c0&gt;:tablet&lt;/c0&gt;, &lt;c1&gt;:phone&lt;/c1&gt;, or &lt;c2&gt;:desktop&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T133714Z" creationid="hsin" creationdate="20131224T133629Z">
+        <seg>request variant는 &lt;c0&gt;:tablet&lt;/c0&gt;, &lt;c1&gt;:phone&lt;/c1&gt;, &lt;c2&gt;:desktop&lt;/c2&gt;와 같은 @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>The secrets added to this file will be accessible via &lt;c0&gt;Rails.application.secrets&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140230Z" creationid="hsin" creationdate="20131219T140230Z">
+        <seg>이 파일에 추가된 변수들은 &lt;c0&gt;Rails.application.secrets&lt;/c0&gt;을 통해서 접근할 수 있슨비다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>The time it takes to generate a message is written to the log.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T015524Z" creationid="hsin" creationdate="20131229T015524Z">
+        <seg>메시지가 생성되는 시간이 로그에 기록됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>These release notes cover only the major changes.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134702Z" creationid="hsin" creationdate="20131219T134702Z">
+        <seg>이 릴리즈 노트는 주요한 변경 사항만을 다루고 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>This can be configured using the &lt;t1&gt;preview_path&lt;/t1&gt; option.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084021Z" creationid="hsin" creationdate="20131220T084021Z">
+        <seg>이 경로는 &lt;t1&gt;preview_path&lt;/t1&gt; 옵션을 통해서 변경할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>This example is equivalent to defining a &lt;c0&gt;EventTracking&lt;/c0&gt; module inline, extending it with &lt;c1&gt;ActiveSupport::Concern&lt;/c1&gt;, then mixing it in to the &lt;c2&gt;Todo&lt;/c2&gt; class.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T010933Z" creationid="hsin" creationdate="20131229T010933Z">
+        <seg>이 예제는 &lt;c1&gt;ActiveSupport::Concern&lt;/c1&gt;을 확장해 &lt;c0&gt;EventTracking&lt;/c0&gt; 모듈을 인라인으로(@@@) 정의하고 &lt;c2&gt;Todo&lt;/c2&gt; 클래스에 믹스인해주는 것과 같습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>This means any of your tests that hit &lt;c0&gt;.js&lt;/c0&gt; URLs will now fail CSRF protection unless they use &lt;c1&gt;xhr&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T011554Z" creationid="hsin" creationdate="20131229T011554Z">
+        <seg>바꿔말하면 &lt;c1&gt;xhr&lt;/c1&gt;을 사용하지 않는 &lt;c0&gt;.js&lt;/c0&gt;에 접근하려는 Url은 모두 실패한다는 의미입니다. @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>This means that &lt;c0&gt;bin/rails&lt;/c0&gt; and &lt;c1&gt;bin/rake&lt;/c1&gt; will automatically take advantage of preloaded spring environments.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135801Z" creationid="hsin" creationdate="20131219T135801Z">
+        <seg>이는 &lt;c0&gt;bin/rails&lt;/c0&gt;와 &lt;c1&gt;bin/rake&lt;/c1&gt; 파일들은 기본적으로 Spring 환경에서 실행된다는 걸 의미합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>To know about various bug fixes and changes, please refer to the change logs or check out the &lt;a0&gt;list of commits&lt;/a0&gt; in the main Rails repository on GitHub.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134830Z" creationid="hsin" creationdate="20131219T134830Z">
+        <seg>더 자세한 변경 사항을 알고싶다면 change logs 나 Github 레일즈 메인 저장소의 &lt;a0&gt;커밋 리스트&lt;/a0&gt;를 참조하시기 바랍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>To use them, instead first call &lt;c0&gt;#to_a&lt;/c0&gt; on the association to access the array to be acted on.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T024046Z" creationid="hsin" creationdate="20131229T024046Z">
+        <seg>이를 사용하기 위해선 먼저 association에 &lt;c0&gt;#to_a&lt;/c0&gt;를 호출해 배열로 작동하도록 해야합니다 @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Unify boolean type casting for &lt;c0&gt;MysqlAdapter&lt;/c0&gt; and &lt;c1&gt;Mysql2Adapter&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T024253Z" creationid="hsin" creationdate="20131229T024253Z">
+        <seg>&lt;c0&gt;MysqlAdapter&lt;/c0&gt;과 &lt;c1&gt;Mysql2Adapter&lt;/c1&gt;를 위해 Boolean 타입 캐스팅이 통합되었습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Update your tests to use &lt;c2&gt;xhr :get, :foo, format: :js&lt;/c2&gt; instead of &lt;c3&gt;get :foo, format: :js&lt;/c3&gt;.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T135737Z" creationid="hsin" creationdate="20131224T135737Z">
+        <seg>&lt;c2&gt;get :foo, format: :js&lt;/c2&gt; 방식을 사용하는 대신에 &lt;c3&gt;xhr :get, :foo, format: :js&lt;/c3&gt;처럼 테스트를 변경해주세요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Upgrade your tests to be explicit about expecting XmlHttpRequests.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T011617Z" creationid="hsin" creationdate="20131229T011617Z">
+        <seg>모든 테스트드를 명시적으로 XmlHttpReqests를 사용하도록 변경해주세요 @@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Upgrading to Rails 4.1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134859Z" creationid="hsin" creationdate="20131219T134859Z">
+        <seg>4.1로 업그레이드 하기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Variants makes it easy.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140530Z" creationid="hsin" creationdate="20131219T140514Z">
+        <seg>Variants는 이러한 작업을 쉽게 해줍니다.@@@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Views</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134447Z" creationid="hsin" creationdate="20131219T134447Z">
+        <seg>Views</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>We often want to render different html/json/xml templates for phones, tablets, and desktop browsers.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140502Z" creationid="hsin" creationdate="20131219T140502Z">
+        <seg>스마트폰이나 태플릿이나 데스크탑 브라우저에 따라서 서로 다른 html/json/xml 템플릿을 렌더링하고 싶을 때가 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>Working with JavaScript in Rails</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134506Z" creationid="hsin" creationdate="20131219T134506Z">
+        <seg>Working with JavaScript in Rails</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>You can also simplify the variants definition using the inline syntax:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T134053Z" creationid="hsin" creationdate="20131224T134053Z">
+        <seg>인라인 문법을 사용해 좀 더 간단하게 variants를 정의할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>You can set the variant in a &lt;c0&gt;before_action&lt;/c0&gt;:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131224T133736Z" creationid="hsin" creationdate="20131224T133736Z">
+        <seg>&lt;c0&gt;before_action&lt;/c0&gt;에 variant를 지정할 수 있습니다:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>You can use &lt;c1&gt;#transaction_open?&lt;/c1&gt; instead.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T005136Z" creationid="hsin" creationdate="20131225T005136Z">
+        <seg>이 메소드 대신 &lt;c1&gt;#transaction_open?&lt;/c1&gt; 메소드를 사용하시기 바랍니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>You should also first upgrade to Rails 4.0 in case you haven't and make sure your application still runs as expected before attempting an update to Rails 4.1.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135315Z" creationid="hsin" creationdate="20131219T135315Z">
+        <seg>또한 아직 4.0 이전 버전을 사용하고 있으시다면 미리 4.0으로 업그레이드를 통해 어플리케이션이 정상적으로 작동하는지 확인한 다음 4.1로 업그레이드를 시도하는 게 좋습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>action_controller_overview.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134452Z" creationid="hsin" creationdate="20131219T134452Z">
+        <seg>action_controller_overview.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>action_mailer_basics.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134456Z" creationid="hsin" creationdate="20131219T134456Z">
+        <seg>action_mailer_basics.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>active_record_basics.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134326Z" creationid="hsin" creationdate="20131219T134307Z">
+        <seg>active_record_basics.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>active_record_callbacks.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134443Z" creationid="hsin" creationdate="20131219T134443Z">
+        <seg>active_record_callbacks.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>active_record_querying.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134445Z" creationid="hsin" creationdate="20131219T134445Z">
+        <seg>active_record_querying.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>active_record_validations.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134442Z" creationid="hsin" creationdate="20131219T134442Z">
+        <seg>active_record_validations.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>active_support_core_extensions.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134455Z" creationid="hsin" creationdate="20131219T134455Z">
+        <seg>active_support_core_extensions.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>api.rubyonrails.org/v4.1.0/classes/ActionMailer/Base.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084023Z" creationid="hsin" creationdate="20131220T084023Z">
+        <seg>api.rubyonrails.org/v4.1.0/classes/ActionMailer/Base.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>api.rubyonrails.org/v4.1.0/classes/ActiveRecord/Enum.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084138Z" creationid="hsin" creationdate="20131220T084138Z">
+        <seg>api.rubyonrails.org/v4.1.0/classes/ActiveRecord/Enum.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>api.rubyonrails.org/v4.1.0/classes/Module/Concerning.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T010934Z" creationid="hsin" creationdate="20131229T010934Z">
+        <seg>api.rubyonrails.org/v4.1.0/classes/Module/Concerning.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>api_documentation_guidelines.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134511Z" creationid="hsin" creationdate="20131219T134511Z">
+        <seg>api_documentation_guidelines.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>app/views/projects/show.html.erb
+app/views/projects/show.html+tablet.erb
+app/views/projects/show.html+phone.erb</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083843Z" creationid="hsin" creationdate="20131220T083843Z">
+        <seg>app/views/projects/show.html.erb
+app/views/projects/show.html+tablet.erb
+app/views/projects/show.html+phone.erb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>asset_pipeline.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134504Z" creationid="hsin" creationdate="20131219T134504Z">
+        <seg>asset_pipeline.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>association_basics.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134444Z" creationid="hsin" creationdate="20131219T134444Z">
+        <seg>association_basics.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>bin/rails console</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135817Z" creationid="hsin" creationdate="20131219T135817Z">
+        <seg>bin/rails console</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>bin/rake routes</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135813Z" creationid="hsin" creationdate="20131219T135813Z">
+        <seg>bin/rake routes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>bin/rake test
+bin/rake test test/models
+bin/rake test test/models/user_test.rb</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135815Z" creationid="hsin" creationdate="20131219T135815Z">
+        <seg>bin/rake test
+bin/rake test test/models
+bin/rake test test/models/user_test.rb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>class Conversation &lt; ActiveRecord::Base</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084134Z" creationid="hsin" creationdate="20131220T084134Z">
+        <seg>class Conversation &lt; ActiveRecord::Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>class NotifierPreview &lt; ActionMailer::Preview</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083919Z" creationid="hsin" creationdate="20131220T083919Z">
+        <seg>class NotifierPreview &lt; ActionMailer::Preview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>class Todo &lt; ActiveRecord::Base</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084255Z" creationid="hsin" creationdate="20131220T084255Z">
+        <seg>class Todo &lt; ActiveRecord::Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>command_line.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134500Z" creationid="hsin" creationdate="20131219T134500Z">
+        <seg>command_line.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>concerning :EventTracking do</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084256Z" creationid="hsin" creationdate="20131220T084256Z">
+        <seg>concerning :EventTracking do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>config/secrets.yml</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134630Z" creationid="hsin" creationdate="20131219T134630Z">
+        <seg>config/secrets.yml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>configuring.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134459Z" creationid="hsin" creationdate="20131219T134459Z">
+        <seg>configuring.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>contributing_to_ruby_on_rails.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134509Z" creationid="hsin" creationdate="20131219T134509Z">
+        <seg>contributing_to_ruby_on_rails.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>conversation.active?</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084136Z" creationid="hsin" creationdate="20131220T084136Z">
+        <seg>conversation.active?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>credits.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134529Z" creationid="hsin" creationdate="20131219T134529Z">
+        <seg>credits.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>debugging_rails_applications.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134458Z" creationid="hsin" creationdate="20131219T134458Z">
+        <seg>debugging_rails_applications.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>def latest_event</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084259Z" creationid="hsin" creationdate="20131220T084259Z">
+        <seg>def latest_event</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>def some_internal_method</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084301Z" creationid="hsin" creationdate="20131220T084301Z">
+        <seg>def some_internal_method</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>def welcome</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083920Z" creationid="hsin" creationdate="20131220T083920Z">
+        <seg>def welcome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>development:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140252Z" creationid="hsin" creationdate="20131219T140252Z">
+        <seg>development:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>edge-badge</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134219Z" creationid="hsin" creationdate="20131219T134219Z">
+        <seg>edge-badge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083755Z" creationid="hsin" creationdate="20131219T134208Z">
+        <seg>en</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>end</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084259Z" creationid="hsin" creationdate="20131220T084259Z">
+        <seg>end</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>end
+end</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083840Z" creationid="hsin" creationdate="20131220T083840Z">
+        <seg>end
+end</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>enum status: [ :active, :archived ]
+end
+
+conversation.archived!</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084135Z" creationid="hsin" creationdate="20131220T084135Z">
+        <seg>enum status: [ :active, :archived ]
+end
+
+conversation.archived!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>form_helpers.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134449Z" creationid="hsin" creationdate="20131219T134449Z">
+        <seg>form_helpers.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>format.html do |html|</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083833Z" creationid="hsin" creationdate="20131220T083833Z">
+        <seg>format.html do |html|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>format.html.none  { render "trash" }
+end</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083846Z" creationid="hsin" creationdate="20131220T083846Z">
+        <seg>format.html.none  { render "trash" }
+end</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>format.html.phone { redirect_to progress_path }</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083845Z" creationid="hsin" creationdate="20131220T083845Z">
+        <seg>format.html.phone { redirect_to progress_path }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>format.js         { render "trash" }</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083845Z" creationid="hsin" creationdate="20131220T083845Z">
+        <seg>format.js         { render "trash" }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>generators.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134508Z" creationid="hsin" creationdate="20131219T134508Z">
+        <seg>generators.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>getting_started.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134302Z" creationid="hsin" creationdate="20131219T134302Z">
+        <seg>getting_started.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>has_many :events</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084256Z" creationid="hsin" creationdate="20131220T084256Z">
+        <seg>has_many :events</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>html.phone { extra_setup; render ... }</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083834Z" creationid="hsin" creationdate="20131220T083834Z">
+        <seg>html.phone { extra_setup; render ... }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>html.tablet # renders app/views/projects/show.html+tablet.erb</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083834Z" creationid="hsin" creationdate="20131220T083834Z">
+        <seg>html.tablet # renders app/views/projects/show.html+tablet.erb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>http://creativecommons.org/licenses/by-sa/3.0/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010512Z" creationid="hsin" creationdate="20131225T010512Z">
+        <seg>http://creativecommons.org/licenses/by-sa/3.0/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>http://groups.google.com/group/rubyonrails-docs</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010511Z" creationid="hsin" creationdate="20131225T010511Z">
+        <seg>http://groups.google.com/group/rubyonrails-docs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>http://rubyonrails.org/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134223Z" creationid="hsin" creationdate="20131219T134223Z">
+        <seg>http://rubyonrails.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>http://rubyonrails.org/community</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134253Z" creationid="hsin" creationdate="20131219T134253Z">
+        <seg>http://rubyonrails.org/community</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>http://rubyonrails.org/deploy</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134246Z" creationid="hsin" creationdate="20131219T134246Z">
+        <seg>http://rubyonrails.org/deploy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>http://rubyonrails.org/documentation</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134251Z" creationid="hsin" creationdate="20131219T134251Z">
+        <seg>http://rubyonrails.org/documentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>http://rubyonrails.org/download</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134245Z" creationid="hsin" creationdate="20131219T134245Z">
+        <seg>http://rubyonrails.org/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>http://rubyonrails.org/ecosystem</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134252Z" creationid="hsin" creationdate="20131219T134252Z">
+        <seg>http://rubyonrails.org/ecosystem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>http://rubyonrails.org/screencasts</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134250Z" creationid="hsin" creationdate="20131219T134250Z">
+        <seg>http://rubyonrails.org/screencasts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>http://weblog.rubyonrails.org/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134253Z" creationid="hsin" creationdate="20131219T134253Z">
+        <seg>http://weblog.rubyonrails.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>http://www.ruby-doc.org/core-1.9.3/Hash.html#method-i-fetch</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125206Z" creationid="hsin" creationdate="20131220T125206Z">
+        <seg>http://www.ruby-doc.org/core-1.9.3/Hash.html#method-i-fetch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/jonleighton/spring</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084829Z" creationid="hsin" creationdate="20131220T084829Z">
+        <seg>https://github.com/jonleighton/spring</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/jonleighton/spring/blob/master/README.md</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135901Z" creationid="hsin" creationdate="20131219T135901Z">
+        <seg>https://github.com/jonleighton/spring/blob/master/README.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/activesupport-json_encoder</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010325Z" creationid="hsin" creationdate="20131225T010325Z">
+        <seg>https://github.com/rails/activesupport-json_encoder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134247Z" creationid="hsin" creationdate="20131219T134247Z">
+        <seg>https://github.com/rails/rails</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/actionmailer/CHANGELOG.md</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125215Z" creationid="hsin" creationdate="20131220T125215Z">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/actionmailer/CHANGELOG.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/actionpack/CHANGELOG.md</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125056Z" creationid="hsin" creationdate="20131220T125056Z">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/actionpack/CHANGELOG.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/activemodel/CHANGELOG.md</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010243Z" creationid="hsin" creationdate="20131225T010243Z">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/activemodel/CHANGELOG.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/activerecord/CHANGELOG.md</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125223Z" creationid="hsin" creationdate="20131220T125223Z">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/activerecord/CHANGELOG.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/activesupport/CHANGELOG.md</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010311Z" creationid="hsin" creationdate="20131225T010311Z">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/activesupport/CHANGELOG.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/railties/CHANGELOG.md</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084436Z" creationid="hsin" creationdate="20131220T084436Z">
+        <seg>https://github.com/rails/rails/blob/4-1-stable/railties/CHANGELOG.md</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/commit/423249504a2b468d7a273cbe6accf4f21cb0e643</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010438Z" creationid="hsin" creationdate="20131225T010438Z">
+        <seg>https://github.com/rails/rails/commit/423249504a2b468d7a273cbe6accf4f21cb0e643</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/commit/5ac2341fab689344991b2a4817bd2bc8b3edac9d</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131229T024421Z" creationid="hsin" creationdate="20131229T024421Z">
+        <seg>https://github.com/rails/rails/commit/5ac2341fab689344991b2a4817bd2bc8b3edac9d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/commit/5da23a3f921f0a4a3139495d2779ab0d3bd4cb5f</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010441Z" creationid="hsin" creationdate="20131225T010441Z">
+        <seg>https://github.com/rails/rails/commit/5da23a3f921f0a4a3139495d2779ab0d3bd4cb5f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/commit/7d84c3a2f7ede0e8d04540e9c0640de7378e9b3a</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010246Z" creationid="hsin" creationdate="20131225T010246Z">
+        <seg>https://github.com/rails/rails/commit/7d84c3a2f7ede0e8d04540e9c0640de7378e9b3a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/commit/84eac5dab8b0fe9ee20b51250e52ad7bfea36553</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T085042Z" creationid="hsin" creationdate="20131220T085042Z">
+        <seg>https://github.com/rails/rails/commit/84eac5dab8b0fe9ee20b51250e52ad7bfea36553</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/commit/94924dc32baf78f13e289172534c2e71c9c8cade</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125719Z" creationid="hsin" creationdate="20131220T125719Z">
+        <seg>https://github.com/rails/rails/commit/94924dc32baf78f13e289172534c2e71c9c8cade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/commit/c300dca9963bda78b8f358dbcb59cabcdc5e1dc9</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010443Z" creationid="hsin" creationdate="20131225T010443Z">
+        <seg>https://github.com/rails/rails/commit/c300dca9963bda78b8f358dbcb59cabcdc5e1dc9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/commit/db41eb8a6ea88b854bf5cd11070ea4245e1639c5</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125726Z" creationid="hsin" creationdate="20131220T125726Z">
+        <seg>https://github.com/rails/rails/commit/db41eb8a6ea88b854bf5cd11070ea4245e1639c5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/commit/e94e97ca796c0759d8fcb8f946a3bbc60252d329</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125725Z" creationid="hsin" creationdate="20131220T125725Z">
+        <seg>https://github.com/rails/rails/commit/e94e97ca796c0759d8fcb8f946a3bbc60252d329</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/commit/f950b2699f97749ef706c6939a84dfc85f0b05f2</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010203Z" creationid="hsin" creationdate="20131225T010203Z">
+        <seg>https://github.com/rails/rails/commit/f950b2699f97749ef706c6939a84dfc85f0b05f2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/commits/master</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134647Z" creationid="hsin" creationdate="20131219T134647Z">
+        <seg>https://github.com/rails/rails/commits/master</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/issues</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010514Z" creationid="hsin" creationdate="20131225T010514Z">
+        <seg>https://github.com/rails/rails/issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/10556</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125628Z" creationid="hsin" creationdate="20131220T125628Z">
+        <seg>https://github.com/rails/rails/pull/10556</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/10576</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010314Z" creationid="hsin" creationdate="20131225T010314Z">
+        <seg>https://github.com/rails/rails/pull/10576</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/10710</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010223Z" creationid="hsin" creationdate="20131225T010223Z">
+        <seg>https://github.com/rails/rails/pull/10710</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/10769</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010000Z" creationid="hsin" creationdate="20131225T010000Z">
+        <seg>https://github.com/rails/rails/pull/10769</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/10879</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010440Z" creationid="hsin" creationdate="20131225T010440Z">
+        <seg>https://github.com/rails/rails/pull/10879</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/10886</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010232Z" creationid="hsin" creationdate="20131225T010232Z">
+        <seg>https://github.com/rails/rails/pull/10886</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/11014</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010222Z" creationid="hsin" creationdate="20131225T010222Z">
+        <seg>https://github.com/rails/rails/pull/11014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/11032</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125208Z" creationid="hsin" creationdate="20131220T125208Z">
+        <seg>https://github.com/rails/rails/pull/11032</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12129</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125615Z" creationid="hsin" creationdate="20131220T125615Z">
+        <seg>https://github.com/rails/rails/pull/12129</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12137</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010216Z" creationid="hsin" creationdate="20131225T010216Z">
+        <seg>https://github.com/rails/rails/pull/12137</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12183</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010325Z" creationid="hsin" creationdate="20131225T010325Z">
+        <seg>https://github.com/rails/rails/pull/12183</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12203</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010335Z" creationid="hsin" creationdate="20131225T010335Z">
+        <seg>https://github.com/rails/rails/pull/12203</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12389</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010333Z" creationid="hsin" creationdate="20131225T010333Z">
+        <seg>https://github.com/rails/rails/pull/12389</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12407</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T132121Z" creationid="hsin" creationdate="20131220T132121Z">
+        <seg>https://github.com/rails/rails/pull/12407</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12425</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125717Z" creationid="hsin" creationdate="20131220T125717Z">
+        <seg>https://github.com/rails/rails/pull/12425</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12479</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T085126Z" creationid="hsin" creationdate="20131220T085126Z">
+        <seg>https://github.com/rails/rails/pull/12479</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12556</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125220Z" creationid="hsin" creationdate="20131220T125220Z">
+        <seg>https://github.com/rails/rails/pull/12556</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12643</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125729Z" creationid="hsin" creationdate="20131220T125729Z">
+        <seg>https://github.com/rails/rails/pull/12643</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12692</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125207Z" creationid="hsin" creationdate="20131220T125207Z">
+        <seg>https://github.com/rails/rails/pull/12692</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12772</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125711Z" creationid="hsin" creationdate="20131220T125711Z">
+        <seg>https://github.com/rails/rails/pull/12772</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12785</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010338Z" creationid="hsin" creationdate="20131225T010338Z">
+        <seg>https://github.com/rails/rails/pull/12785</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12824</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010412Z" creationid="hsin" creationdate="20131225T010412Z">
+        <seg>https://github.com/rails/rails/pull/12824</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12862</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010409Z" creationid="hsin" creationdate="20131225T010409Z">
+        <seg>https://github.com/rails/rails/pull/12862</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12891</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125702Z" creationid="hsin" creationdate="20131220T125702Z">
+        <seg>https://github.com/rails/rails/pull/12891</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12958</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084830Z" creationid="hsin" creationdate="20131220T084830Z">
+        <seg>https://github.com/rails/rails/pull/12958</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/12995</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T085154Z" creationid="hsin" creationdate="20131220T085154Z">
+        <seg>https://github.com/rails/rails/pull/12995</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/13022</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010239Z" creationid="hsin" creationdate="20131225T010239Z">
+        <seg>https://github.com/rails/rails/pull/13022</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/13060</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010405Z" creationid="hsin" creationdate="20131225T010405Z">
+        <seg>https://github.com/rails/rails/pull/13060</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/13345</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125145Z" creationid="hsin" creationdate="20131220T125145Z">
+        <seg>https://github.com/rails/rails/pull/13345</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/7839</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010237Z" creationid="hsin" creationdate="20131225T010237Z">
+        <seg>https://github.com/rails/rails/pull/7839</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/9599</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T125203Z" creationid="hsin" creationdate="20131220T125203Z">
+        <seg>https://github.com/rails/rails/pull/9599</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>https://github.com/rails/rails/pull/9860</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010215Z" creationid="hsin" creationdate="20131225T010215Z">
+        <seg>https://github.com/rails/rails/pull/9860</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>i18n.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134456Z" creationid="hsin" creationdate="20131219T134456Z">
+        <seg>i18n.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>images/chapters_icon.gif</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134831Z" creationid="hsin" creationdate="20131219T134831Z">
+        <seg>images/chapters_icon.gif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>images/edge_badge.png</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134221Z" creationid="hsin" creationdate="20131219T134221Z">
+        <seg>images/edge_badge.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>images/favicon.ico</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134219Z" creationid="hsin" creationdate="20131219T134219Z">
+        <seg>images/favicon.ico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>included do</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084256Z" creationid="hsin" creationdate="20131220T084256Z">
+        <seg>included do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134300Z" creationid="hsin" creationdate="20131219T134254Z">
+        <seg>index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>layouts_and_rendering.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134448Z" creationid="hsin" creationdate="20131219T134448Z">
+        <seg>layouts_and_rendering.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>maintenance_policy.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134514Z" creationid="hsin" creationdate="20131219T134514Z">
+        <seg>maintenance_policy.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>message = Rails.application.message_verifier('salt').generate('my sensible data')
+Rails.application.message_verifier('salt').verify(message)
+# =&gt; 'my sensible data'</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084214Z" creationid="hsin" creationdate="20131220T084214Z">
+        <seg>message = Rails.application.message_verifier('salt').generate('my sensible data')
+Rails.application.message_verifier('salt').verify(message)
+# =&gt; 'my sensible data'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>migrations.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134441Z" creationid="hsin" creationdate="20131219T134441Z">
+        <seg>migrations.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>private</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T084301Z" creationid="hsin" creationdate="20131220T084301Z">
+        <seg>private</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>rails_on_rack.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134507Z" creationid="hsin" creationdate="20131219T134507Z">
+        <seg>rails_on_rack.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>request.variant = :tablet if request.user_agent =~ /iPad/</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083810Z" creationid="hsin" creationdate="20131220T083810Z">
+        <seg>request.variant = :tablet if request.user_agent =~ /iPad/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>respond_to do |format|</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131220T083833Z" creationid="hsin" creationdate="20131220T083833Z">
+        <seg>respond_to do |format|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>routing.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134453Z" creationid="hsin" creationdate="20131219T134453Z">
+        <seg>routing.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>ruby_on_rails_guides_guidelines.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134512Z" creationid="hsin" creationdate="20131219T134512Z">
+        <seg>ruby_on_rails_guides_guidelines.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>running a console:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135836Z" creationid="hsin" creationdate="20131219T135816Z">
+        <seg>콘솔 실행하기:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>running rake tasks:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135810Z" creationid="hsin" creationdate="20131219T135810Z">
+        <seg>레이크 테스트 실행하기:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>running tests:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135830Z" creationid="hsin" creationdate="20131219T135815Z">
+        <seg>테스트 실행하기:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>secret_key_base: 3b7cd727ee24e8444053437c36cc66c3</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140256Z" creationid="hsin" creationdate="20131219T140256Z">
+        <seg>secret_key_base: 3b7cd727ee24e8444053437c36cc66c3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>security.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134457Z" creationid="hsin" creationdate="20131219T134457Z">
+        <seg>security.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>some_api_key: SOMEKEY</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140256Z" creationid="hsin" creationdate="20131219T140256Z">
+        <seg>some_api_key: SOMEKEY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>spring introspection:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135849Z" creationid="hsin" creationdate="20131219T135818Z">
+        <seg>Spring 상태 보기:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>stylesheets/fixes.css</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134218Z" creationid="hsin" creationdate="20131219T134218Z">
+        <seg>stylesheets/fixes.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>stylesheets/print.css</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134217Z" creationid="hsin" creationdate="20131219T134217Z">
+        <seg>stylesheets/print.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>stylesheets/style.css</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134216Z" creationid="hsin" creationdate="20131219T134216Z">
+        <seg>stylesheets/style.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>stylesheets/syntaxhighlighter/shCore.css</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134217Z" creationid="hsin" creationdate="20131219T134217Z">
+        <seg>stylesheets/syntaxhighlighter/shCore.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>stylesheets/syntaxhighlighter/shThemeRailsGuides.css</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134218Z" creationid="hsin" creationdate="20131219T134218Z">
+        <seg>stylesheets/syntaxhighlighter/shThemeRailsGuides.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>upgrading_ruby_on_rails.html#changes-in-json-handling</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131225T010325Z" creationid="hsin" creationdate="20131225T010325Z">
+        <seg>upgrading_ruby_on_rails.html#changes-in-json-handling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>upgrading_ruby_on_rails.html#config-secrets-yml</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T140351Z" creationid="hsin" creationdate="20131219T140351Z">
+        <seg>upgrading_ruby_on_rails.html#config-secrets-yml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>upgrading_ruby_on_rails.html#spring</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135919Z" creationid="hsin" creationdate="20131219T135919Z">
+        <seg>upgrading_ruby_on_rails.html#spring</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>upgrading_ruby_on_rails.html#upgrading-from-rails-4-0-to-rails-4-1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T135117Z" creationid="hsin" creationdate="20131219T135117Z">
+        <seg>upgrading_ruby_on_rails.html#upgrading-from-rails-4-0-to-rails-4-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>width=device-width, initial-scale=1</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134214Z" creationid="hsin" creationdate="20131219T134214Z">
+        <seg>width=device-width, initial-scale=1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="JA">
+        <seg>working_with_javascript_in_rails.html</seg>
+      </tuv>
+      <tuv lang="KO" changeid="hsin" changedate="20131219T134505Z" creationid="hsin" creationdate="20131219T134505Z">
+        <seg>working_with_javascript_in_rails.html</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
